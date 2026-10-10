@@ -1,4 +1,2 @@
-# Entry-test-Agentic-Software-Engineering
-Repository Created for the submission of Entry Test for Agentic Software Engineering Module. It is a public repository for the coding test.
-
-# Testing Sample Commit and push
+# Entry-Test-Agentic-Software-Engineering
+Repository Created for the submission of Entry Test for Agentic Software Engineering Module.
